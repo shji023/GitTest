@@ -1,0 +1,1 @@
+      <Text value={desc} readOnly={true} theme="bubble" />
