@@ -1,2 +1,5 @@
       <Text value={desc} readOnly={true} theme="bubble" />
-메인
+여기는 브랜치 수정한부분
+추가 수정
+계정설정
+안올라가
