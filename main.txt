@@ -1,1 +1,2 @@
       <Text value={desc} readOnly={true} theme="bubble" />
+메인
