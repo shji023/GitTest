@@ -1,4 +1,0 @@
-메인
-브랜치
-main
-branch
